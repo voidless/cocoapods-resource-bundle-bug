@@ -186,16 +186,11 @@
 			files = (
 			);
 			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-resourcebundlebug/Pods-resourcebundlebug-resources.sh",
-				"${PODS_CONFIGURATION_BUILD_DIR}/Resourcepod/ResourcepodResources.bundle",
+				"${PODS_ROOT}/Target Support Files/Pods-resourcebundlebug/Pods-resourcebundlebug-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-			);
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/ResourcepodResources.bundle",
+				"${PODS_ROOT}/Target Support Files/Pods-resourcebundlebug/Pods-resourcebundlebug-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
