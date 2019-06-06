@@ -1,0 +1,16 @@
+PODS:
+  - Resourcepod (1.0)
+
+DEPENDENCIES:
+  - Resourcepod (from `Resourcepod`)
+
+EXTERNAL SOURCES:
+  Resourcepod:
+    :path: Resourcepod
+
+SPEC CHECKSUMS:
+  Resourcepod: cd6aa5139dfaf2c581db0bdd463ea561b8eb17c6
+
+PODFILE CHECKSUM: 5f6856868a1b67b698998b806ec4d0d6fbea7c14
+
+COCOAPODS: 1.6.1
